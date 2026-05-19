@@ -41,11 +41,11 @@ ${conf.AuthorFacebook}
 💬 Messenger :
 ${conf.AuthorMessenger}
 
-🔰 GitHub :
-${conf.AuthorGithub}
+🔰 Telegram :
+${conf.AuthorTelegram}
 
-📲 WhatsApp :
-${conf.AuthorWhatsApp}
+📲 Toktok :
+${conf.AuthorTiktok}
 
 🕒 Updated
 📅 Date : ${date}
