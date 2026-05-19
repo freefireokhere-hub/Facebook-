@@ -2,12 +2,12 @@ const { writeFileSync, existsSync } = require("fs-extra");
 const { resolve } = require("path");
 
 module.exports.config = {
- name: "0admin",
+ name: "botadmin",
  version: "1.0.0",
  hasPermssion: 2,
  credits: "SHAHADAT SAHU",
  description: "Admin Management System",
- commandCategory: "Admin",
+ commandCategory: "botAdmin",
  usages: "[list | add | remove | only | boxonly] [uid | @mention | reply]",
  cooldowns: 0,
  usePrefix: true,
