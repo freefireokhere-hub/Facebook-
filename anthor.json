@@ -15,37 +15,32 @@
     "removeSt": false,
     "NOTIFICATION": true,
     "notiGroup": true,
-    "BOTNAME": "𝗦𝗔𝗛𝗨 𝗜𝗦𝗟𝗔𝗠𝗜𝗖 𝗕𝗢𝗧",
+    "BOTNAME": "𝗕𝘂𝘁𝘁𝗲𝗿𝗳𝗹𝘆 🦋",
     "PREFIX": "/",
     "reactUnsend": [
         "😡",
         "🤧",
-        "😤",
+        "😾",
         "😠"
     ],
     "ADMINBOT": [
-        "100044713412032",
-        "100047211079054",
-        "61587787857742"
+        "100000474457283"
     ],
     "NDH": [
-        "100044713412032"
+        "100000474457283"
     ],
-    "AuthorName": "SHAHADAT SAHU",
-    "AuthorNickName": "সাহু",
-    "AuthorBotName": "SAHU ISLAMIC BOT",
-    "AuthorGender": "Male",
-    "AuthorAge": "18+",
+    "AuthorName": "—͞TUFANㅤ100K",
+    "AuthorNickName": "TUFAN",
+    "AuthorBotName": "𝗕𝘂𝘁𝘁𝗲𝗿𝗳𝗹𝘆 🦋",
+    "AuthorGender": "Female",
+    "AuthorAge": "20",
     "AuthorReligion": "Islam",
     "AuthorRelationalStatus": "Single",
     "AuthorLocation": "Bangladesh",
-    "AuthorPhoto": "https://i.imgur.com/Zhs0omh.jpeg",
-    "AuthorImgur": "https://i.imgur.com/zqsuJnX.jpeg",
-    "AuthorGithub": "https://github.com/shahadat-sahu",
-    "AuthorFacebook": "https://fb.com/100044713412032",
-    "AuthorMessenger": "https://m.me/100044713412032",
-    "AuthorWhatsApp": "https://wa.me/8801882333052",
-    "AuthorTelegram": "https://t.me/yoursahu",
+    "AuthorFacebook": "https://fb.com/100000474457283",
+    "AuthorMessenger": "https://m.me/100000474457283",
+    "AuthorTelegram": "https://t.me/tufaaan_edit",
+    "AuthorTiktok": "https://www.tiktok.com/@tufaaan_edit",
     "APPSTATEPATH": "cokiState.json",
     "FCAOption": {
         "forceLogin": true,
